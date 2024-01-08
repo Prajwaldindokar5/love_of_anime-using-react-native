@@ -8,5 +8,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "styles/profile.ts", "styles/home.ts", "styles/animeCard.js", "utils/NewRequest.js", "constants/icon.js"  ]
 }
